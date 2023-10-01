@@ -9,7 +9,11 @@
 
 body {
     font-family: 'Oswald', sans-serif;
+    display: flex;
+    flex-direction: column;
 }
+
+/* HEADER */
 
 header {
     background-color: darkgreen;
@@ -45,4 +49,24 @@ header a {
 
 .active {
     border-bottom: 2px solid white;
+}
+
+/* MAIN */
+
+/* FOOTER */
+
+footer {
+    background-color: darkgreen;
+}
+
+.social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+footer i {
+    color: white;
+    font-size: xx-large;
 }
