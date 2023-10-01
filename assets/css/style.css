@@ -14,6 +14,13 @@ body {
 header {
     background-color: darkgreen;
     display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+header a {
+    color: white;
 }
 
 #logo {
@@ -24,5 +31,17 @@ header {
 }
 
 #menu {
-    
+    font-size: 135%;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-right: 250px;
+}
+
+#menu li {
+    display: inline;
+    margin: 20px;
+}
+
+.active {
+    border-bottom: 2px solid white;
 }
