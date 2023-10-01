@@ -5,11 +5,12 @@
 }
 
 header {
-    background-color: green;
+    background-color: darkgreen;
     display: flex;
 }
 
 #logo {
     margin: 20px;
     font-size: 200%;
+    color: white;
 }
