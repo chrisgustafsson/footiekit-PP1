@@ -108,4 +108,18 @@ input[type=submit]:hover {
 
 #join {
     margin-left: 17px;
+    text-transform: uppercase;
+}
+
+/* ABOUT US PAGE */
+
+#aboutus-pic {
+    height: 450px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#pitch-pic {
+    height: 450px;
+    width: 100%;
 }
