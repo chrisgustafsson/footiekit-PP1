@@ -70,3 +70,26 @@ footer i {
     color: white;
     font-size: xx-large;
 }
+
+form {
+    border: 6px darkgreen;
+    margin: 20px;
+}
+
+.newsletter {
+    align: center;
+}
+
+input[type=text], input[type=email], input[type=submit] {
+    padding: 15px;
+    display: row;
+}
+
+input[type=submit] {
+    background-color: darkgreen;
+    color: white;
+}
+
+input[type=submit]:hover {
+    opacity: 0,75;
+}
