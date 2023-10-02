@@ -135,5 +135,11 @@ input[type=submit]:hover {
     text-align: center;
     width: 50%;
     margin: auto;
-    padding: 20px;
+    padding: 40px;
+}
+
+#game-pic {
+    height: 450px;
+    width: 100%;
+    zoom: 37.5%;
 }
