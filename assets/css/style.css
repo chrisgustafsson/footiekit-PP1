@@ -162,3 +162,19 @@ input[type=submit]:hover {
     text-align: center;
     margin: 20px;
 }
+
+/* COLLECTION PAGE */
+
+#collection-first {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align: center;
+    margin: 75px;
+}
+
+#kits {
+    zoom: 15%;
+    justify-content: space-between;
+    border: 100px solid darkgreen;
+}
