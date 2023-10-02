@@ -143,3 +143,14 @@ input[type=submit]:hover {
     width: 100%;
     zoom: 37.5%;
 }
+
+/* HOME PAGE */
+
+#hero {
+    overflow: hidden;
+}
+
+#hero-image {
+    height: 550px;
+    width: 100%;
+}
