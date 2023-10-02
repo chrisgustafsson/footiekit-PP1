@@ -176,5 +176,5 @@ input[type=submit]:hover {
 #kits>img {
     zoom: 15%;
     justify-content: space-between;
-    border: 100px solid darkgreen;
+    border: 50px solid darkgreen;
 }
