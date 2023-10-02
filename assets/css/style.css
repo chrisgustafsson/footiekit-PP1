@@ -154,3 +154,13 @@ input[type=submit]:hover {
     height: 550px;
     width: 100%;
 }
+
+#startpage-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align: center;
+    margin: 20px;
+}
+
+#map {}
