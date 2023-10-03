@@ -183,3 +183,52 @@ input[type=submit]:hover {
     justify-content: space-between;
     border: 50px solid darkgreen;
 }
+
+/* Media queries - Responsive */
+
+@media screen and (max-width: 1370px) {
+    #logo {
+        padding-left: 0px;
+        font-size: 200%;
+    }
+
+    #menu {
+        margin-right: 0px;
+        font-size: 100%;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    header {
+        flex-direction: column;
+        width: 100vw;
+    }
+
+    body {
+        width: 100vw;
+    }
+
+    #menu {
+        padding-bottom: 10px;
+    }
+
+    #menu li {
+        margin: 5px;
+    }
+
+    #startpage-content {
+        flex-direction: column;
+    }
+
+    footer {
+        width: 100vw;
+    }
+
+    #location-open {
+        padding-bottom: 20px;
+    }
+
+    #map-content {
+        width: 80vw;
+    }
+}
