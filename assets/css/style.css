@@ -241,3 +241,9 @@ input[type=submit]:hover {
         width: 80vw;
     }
 }
+
+@media screen and (max-width: 350px) {
+    #menu {
+        font-size: 50%;
+    }
+}
