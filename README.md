@@ -201,6 +201,33 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 * Developer tools in Google Chrome
 * All links were thoroughly tested to make sure that they send the user to the right place
 
+### Lighthouse - Google Accesibility
+
+<details>
+<summary> Desktop - Home
+</summary>
+
+![Desktop - Home](assets/pictures/desktop-home-lh.JPG)
+</details>
+<details>
+<summary>Desktop - Collection
+</summary>
+
+![Desktop - Collection](assets/pictures/desktop-collection-lh.JPG)
+</details>
+<details>
+<summary>Desktop - About
+</summary>
+
+![Desktop - About](assets/pictures/desktop-about-lh.JPG)
+</details>
+<details>
+<summary>Desktop - Newsletter
+</summary>
+
+![Desktop - Newsletter](assets/pictures/desktop-newsletter-lh.JPG)
+</details>
+
 - - -
 
 ## Deployment and local development
