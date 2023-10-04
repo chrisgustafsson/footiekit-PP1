@@ -261,7 +261,7 @@ input[type=submit]:hover {
     }
 }
 
-@media screen and (max-width: 310px) {
+@media screen and (max-width: 315px) {
     #menu li {
         font-size: 60%;
     }
