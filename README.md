@@ -134,6 +134,8 @@ Collection and location which are meant to drive users to the physical store is 
 
 ![Desktop - About](assets/)
 
+</details>
+
 <details>
 <summary>Mobile
 </summary>
@@ -143,3 +145,5 @@ Collection and location which are meant to drive users to the physical store is 
 ![Mobile - Collection](assets/)
 
 ![Mobile - About](assets/)
+
+</details>
