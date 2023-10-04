@@ -174,3 +174,20 @@ Collection and location which are meant to drive users to the physical store is 
 
 - - -
 
+## Testing
+
+The W3C Markup Validator and W3C CSS Validator services were used to validate every page of the project to ensure there were no errors.
+
+* [W3C Markup Validator](https://validator.w3.org/)
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+### Validation results
+
+* Home, Collection, About, Newsletter HTML
+  
+![Validation HTML](assets/pictures/html-validation.JPG)
+
+* Style CSS
+
+![Validation CSS](assets/pictures/css-validation.jpg)
+
