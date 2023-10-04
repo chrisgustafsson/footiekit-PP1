@@ -52,3 +52,16 @@ Collection and location which are meant to drive users to the physical store is 
   * Always accesible making it easy to navigate
 
 ![Navigation](assets/pictures/navigation.JPG)
+
+* Location, Opening hours + Map
+  * All you need to find the physical store and opening times
+  * Located on homepage as it is one of the key purposes
+
+![Location](assets/pictures/location-time.JPG)
+
+* Footer
+  * Links to all social media pages
+  * To increase traffic to our social media presence
+  * Accesible on all pages
+
+![Footer](assets/pictures/footer.JPG)
