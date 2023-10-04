@@ -128,11 +128,11 @@ Collection and location which are meant to drive users to the physical store is 
 <summary>Desktop
 </summary>
 
-![Desktop - Home](assets/)
+![Desktop - Home](assets/pictures/wireframe-desktop-home.JPG)
 
-![Desktop - Collection](assets/)
+![Desktop - Collection](assets/pictures/wireframe-desktop-collection.JPG)
 
-![Desktop - About](assets/)
+![Desktop - About](assets/pictures/wireframe-desktop-about.JPG)
 
 </details>
 
@@ -140,11 +140,11 @@ Collection and location which are meant to drive users to the physical store is 
 <summary>Mobile
 </summary>
 
-![Mobile - Home](assets/)
+![Mobile - Home](assets/pictures/wireframe-mobile-home.JPG)
 
-![Mobile - Collection](assets/)
+![Mobile - Collection](assets/pictures/wireframe-mobile-collection.JPG)
 
-![Mobile - About](assets/)
+![Mobile - About](assets/pictures/wireframe-mobile-about.JPG)
 
 </details>
 
