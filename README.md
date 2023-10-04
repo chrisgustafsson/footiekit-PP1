@@ -71,3 +71,15 @@ Collection and location which are meant to drive users to the physical store is 
   * Share the beauty of football kits
 
 ![Collection](assets/pictures/collection.JPG)
+
+* About FOOTIEKITS
+  * Information regarding the purpose of the store
+  * "Get-to-know" FOOTIEKITS shortly
+
+![Footiekits](assets/pictures/about-footiekits.JPG)
+
+* Football kits
+  * Brief info about football kits as a booming trend
+  * "Get-to-know" football kits shortly
+
+![Football-kits](assets/pictures/about-football-kits.JPG)
