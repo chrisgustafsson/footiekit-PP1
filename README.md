@@ -19,4 +19,20 @@ FOOTIEKITS is and what we try to achieve.
 
 Purpose of the page is to be a platform for football kit information and also drive traffic to the physical store.
 Through an easy navigation bar and a easy way to sign up for a newsletter to stay up to date the user can easily achieve the goal with the webpage.
-Collection and location which are meant to drive users to the physical store is also easy accessible, addition of a map to even more state the physical presence. 
+Collection and location which are meant to drive users to the physical store is also easy accessible, addition of a map to even more state the physical presence.
+
+### User Stories (Goals)
+
+* First time visitor
+  * Learn about football kits
+  * Navigate through the page
+  * "Join the family" / Sign up for a newsletter
+
+* Returning visitor
+  * Learn about FOOTIEKITS
+  * Look at the collection of kits
+
+* Frequent user
+  * Keeping up with new addition of kits
+  * Visiting store (need improvement to track)
+
