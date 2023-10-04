@@ -243,10 +243,18 @@ input[type=submit]:hover {
     #map-content {
         width: 80vw;
     }
+
+    .form {
+        margin: 50px;
+    }
 }
 
 @media screen and (max-width: 350px) {
     #menu li {
         font-size: 75%;
+    }
+
+    .form {
+        margin: 0px;
     }
 }
