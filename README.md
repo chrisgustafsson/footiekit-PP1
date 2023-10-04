@@ -97,3 +97,15 @@ Collection and location which are meant to drive users to the physical store is 
   * Build a connection between user and FOOTIEKITS
 
 ![Newsletter](assets/pictures/newsletter-form.JPG)
+
+- - -
+
+## Future Features
+
+* E-commerce possibilities
+  * Book a kit
+  * Bid on a kit
+* Contact-us section for further contact user <-> FOOTIEKITS
+
+- - -
+
