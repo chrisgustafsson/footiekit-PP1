@@ -109,3 +109,37 @@ Collection and location which are meant to drive users to the physical store is 
 
 - - -
 
+## Design
+
+* Colors used are office green, black and white.
+  * Office green / Dark green to connect to an expected color of a football pitch
+  * Black and white for good contrasts and readability
+
+![Colors](assets/pictures/color-scheme.JPG)
+
+* Typography
+  * Righteous for the logotype with sans-serif as a fallback
+  * Oswald for the content with sans-serif as a fallback
+
+* Wireframes
+  * Created in balsamiq
+
+<details>
+<summary>Desktop
+</summary>
+
+![Desktop - Home](assets/)
+
+![Desktop - Collection](assets/)
+
+![Desktop - About](assets/)
+
+<details>
+<summary>Mobile
+</summary>
+
+![Mobile - Home](assets/)
+
+![Mobile - Collection](assets/)
+
+![Mobile - About](assets/)
