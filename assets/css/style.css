@@ -11,6 +11,7 @@ body {
     font-family: 'Oswald', sans-serif;
     display: flex;
     flex-direction: column;
+    max-width: 100%;
 }
 
 /* HEADER */
@@ -18,7 +19,7 @@ body {
 header {
     background-color: darkgreen;
     display: flex;
-    width: 100%;
+    max-width: 100%;
     justify-content: space-between;
     align-items: baseline;
 }
@@ -63,6 +64,7 @@ main {
 
 footer {
     background-color: darkgreen;
+    max-width: 100%;
 }
 
 .social-networks {
