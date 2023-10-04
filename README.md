@@ -83,3 +83,10 @@ Collection and location which are meant to drive users to the physical store is 
   * "Get-to-know" football kits shortly
 
 ![Football-kits](assets/pictures/about-football-kits.JPG)
+
+* About links
+  * Connect the about section directly to collection and newsletter
+  * To go back to the main purpose to sign up for a newsletter or visit a physical store
+  * Put the user on the right track by providing wishful options in the flow of text.
+
+![About-Link-Collection](assets/pictures/about-link-collection.JPG) ![About-Link-Newsletter](assets/pictures/about-link-newsletter.JPG)
