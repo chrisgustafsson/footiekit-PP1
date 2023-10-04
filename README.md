@@ -236,3 +236,22 @@ By forking the repository, we make a copy of the original repository on our GitH
 
 - - -
 
+## Credits
+
+### Code
+
+* README template provided by [Code Institute (template)](https://github.com/Code-Institute-Solutions/SampleREADME)
+* A very helpful source for learning flexbox was [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) by Chris Coyier
+* Inspiration also taken from the Love Running walkthrough project that Code Institute provides
+
+### Content
+
+* All copy was written by the developer
+* Colors decided through benchmarking of other similar subject pages such as [SvenskaFans](https://www.svenskafans.com/) and [Fotbollskanalen](https://www.fotbollskanalen.se/)
+
+### Media
+
+* [Unsplash](https://unsplash.com/) source of freely usable images
+* Collection photos provided by the developer
+
+- - -
