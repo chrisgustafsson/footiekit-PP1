@@ -161,6 +161,8 @@ Collection and location which are meant to drive users to the physical store is 
 
 * [Codeanywhere](https://codeanywhere.com/)
   * To write the code.
+* [Git](https://git-scm.com)
+  * Utilizing the Gitpod terminal to commit to Git and Push to GitHub
 * [Github](https://github.com/)
   * Deployment of the website and storing the files online.
 * [Google Fonts](https://fonts.google.com/)
