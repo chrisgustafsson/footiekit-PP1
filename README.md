@@ -191,3 +191,9 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 
 ![Validation CSS](assets/pictures/css-validation.jpg)
 
+### Manual testing
+
+* Tested on browsers Google Chrome and Safari due to the most amount of traffic
+* Devices used IPHONE 13, Samsung Galaxy S22, Desktop computer and laptop
+* Help from family and friends to test and get a first impression
+* Developer tools in Google Chrome
