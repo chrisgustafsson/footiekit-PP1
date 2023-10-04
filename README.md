@@ -36,3 +36,11 @@ Collection and location which are meant to drive users to the physical store is 
   * Keeping up with new addition of kits
   * Visiting store (need improvement to track)
 
+- - -
+
+## Features
+
+* Targeting the user interested in football and specifically the kit section of the sport
+* By navigating to the newsletter page and sign-up we can provide them with the latest news in store and general
+* Responsive flow
+
