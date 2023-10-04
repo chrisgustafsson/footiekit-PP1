@@ -65,3 +65,9 @@ Collection and location which are meant to drive users to the physical store is 
   * Accesible on all pages
 
 ![Footer](assets/pictures/footer.JPG)
+
+* Collection
+  * Main purpose to showcase physical store inventory
+  * Share the beauty of football kits
+
+![Collection](assets/pictures/collection.JPG)
