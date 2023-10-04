@@ -147,3 +147,30 @@ Collection and location which are meant to drive users to the physical store is 
 ![Mobile - About](assets/)
 
 </details>
+
+- - -
+
+## Technologies Used
+
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+* [CSS3](https://en.wikipedia.org/wiki/CSS)
+
+- - -
+
+## Frameworks, Libraries & Programs Used
+
+* [Codeanywhere](https://codeanywhere.com/)
+  * To write the code.
+* [Github](https://github.com/)
+  * Deployment of the website and storing the files online.
+* [Google Fonts](https://fonts.google.com/)
+  * Import font used for logotype and content
+* [Am I Responsive](https://ui.dev/amiresponsive)
+  * Picture for the README file.
+* [Font Awesome](https://fontawesome.com/)
+  * For social media icons
+* [balsamiq](https://balsamiq.com/)
+  * For creation of wireframes
+
+- - -
+
