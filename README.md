@@ -228,6 +228,31 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 ![Desktop - Newsletter](assets/pictures/desktop-newsletter-lh.JPG)
 </details>
 
+<details>
+<summary> Mobile - Home
+</summary>
+
+![Mobile - Home](assets/pictures/mobile-home-lh.JPG)
+</details>
+<details>
+<summary>Mobile - Collection
+</summary>
+
+![Mobile - Collection](assets/pictures/mobile-collection-lh.JPG)
+</details>
+<details>
+<summary>Mobile - About
+</summary>
+
+![Mobile - About](assets/pictures/mobile-about-lh.JPG)
+</details>
+<details>
+<summary>Mobile - Newsletter
+</summary>
+
+![Mobile - Newsletter](assets/pictures/mobile-newsletter-lh.JPG)
+</details>
+
 - - -
 
 ## Deployment and local development
