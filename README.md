@@ -44,3 +44,11 @@ Collection and location which are meant to drive users to the physical store is 
 * By navigating to the newsletter page and sign-up we can provide them with the latest news in store and general
 * Responsive flow
 
+### Existing Features
+
+* Navigation bar
+  * Connected to header element and seen all across the pages
+  * Links for Home, Collection, About, Newsletter
+  * Always accesible making it easy to navigate
+
+![Navigation](assets/pictures/navigation.JPG)
