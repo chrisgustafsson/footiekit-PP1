@@ -255,3 +255,10 @@ By forking the repository, we make a copy of the original repository on our GitH
 * Collection photos provided by the developer
 
 - - -
+
+## Acknowledgments
+
+* First of my mentor Mitko Bachvarov for helpful tips and tricks and pushing me all the way
+* Family and friends that helped manually test the page
+* Code Institutes weekly stand-ups for valuable information
+* Slack community for daily encouragment
