@@ -170,7 +170,7 @@ input[type=submit]:hover {
     margin-top: 40px;
 }
 
-#collection-first {
+.collection-first {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -178,7 +178,7 @@ input[type=submit]:hover {
     margin: 75px;
 }
 
-#kits>img {
+.kits>img {
     zoom: 15%;
     justify-content: space-between;
     border: 50px solid darkgreen;
@@ -195,15 +195,6 @@ input[type=submit]:hover {
     #menu {
         margin-right: 0px;
         font-size: 100%;
-    }
-
-    #collection-first {
-        margin: 15px;
-        flex-wrap: wrap;
-    }
-
-    #kits {
-        margin: 20px;
     }
 }
 
@@ -239,11 +230,5 @@ input[type=submit]:hover {
 
     #map-content {
         width: 80vw;
-    }
-}
-
-@media screen and (max-width: 350px) {
-    #menu {
-        font-size: 50%;
     }
 }
